@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from scipy import ndimage
 import matplotlib as mpl
 from matplotlib.ticker import MultipleLocator
-import aplpy
+import aplpy   # a python package that can impose images 
 from pylab import *
 from scipy.io.idl import readsav
 import matplotlib.pyplot as plt
